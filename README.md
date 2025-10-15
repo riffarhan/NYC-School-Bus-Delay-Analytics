@@ -203,26 +203,6 @@ OPI = (Efficiency × 40%) + (Responsiveness × 30%) +
 
 ---
 
-## 📈 Key Visualizations
-
-### Delay Distribution
-![School Bus Delays](https://via.placeholder.com/600x300?text=Delay+Distribution+Boxplot)
-*Box plot showing delay time quartiles (8-76 minutes range)*
-
-### Delay Causes Frequency
-![Frequency of Delay Causes](https://via.placeholder.com/600x400?text=Delay+Causes+Bar+Chart)
-*Heavy traffic dominates with 177k incidents, followed by operator issues*
-
-### Operational Error Index by Operator
-![Operation Error Index](https://via.placeholder.com/600x400?text=Operator+Error+Index)
-*Percentage of delays due to operator-controlled factors (ranging 23-37%)*
-
-### Variable Importance
-![CART & Random Forest](https://via.placeholder.com/600x300?text=Feature+Importance+Comparison)
-*Side-by-side comparison confirming bus operator and route as key factors*
-
----
-
 ## 🎯 Recommendations
 
 ### 1. Operator Management
